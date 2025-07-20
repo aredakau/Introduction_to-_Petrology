@@ -36,3 +36,4 @@ This course will cover the following topics:
 - [Classification of Sediments and Sedimentary Rocks](slides/lecture_17.html)
 - [Classification of Sandstone](slides/lecture_18.html)
 - [Classification of Carbonate Rocks](slides/lecture_19.html)
+- [Sedimentary Facies](slides/lecture_22.html)
